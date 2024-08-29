@@ -117,4 +117,4 @@ Looking for more exciting projects and insights?
 
 Connect with me on [𝕏 @renenielsendk](https://x.com/renenielsendk) for updates, tips, and more awesome content!
 
-#nextjs, #nextjs-api, #subscription, #api, #template, #webhook
+#nextjs, #nextjs-api, #api, #template
