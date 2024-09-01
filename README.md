@@ -6,7 +6,7 @@
     <a href="https://github.com/renenielsendk/nextjs-api-typescript/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/renenielsendk/nextjs-api-typescript" alt="License"></a>
 </p>
 
-A plug-and-play Next.js application template designed for seamless API handling. Start building and managing APIs in under 10 minutes.
+A plug-and-play Next.js application template designed for seamless API handling. Just drop in your business logic and start building robust APIs in minutes.
 
 - [Introduction](#introduction)
 - [Built with](#built-with)
@@ -21,10 +21,6 @@ A plug-and-play Next.js application template designed for seamless API handling.
   - [Deploy Your Application](#step-2-deploy-your-application)
 - [License](#license)
 - [Links](#links)
-
-## Introduction
-
-A plug-and-play Next.js template for seamless API handling. Just drop in your business logic and start building robust APIs in minutes.
 
 ## Built with
 
