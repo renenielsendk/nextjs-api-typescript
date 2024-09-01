@@ -59,7 +59,7 @@ if (!user) {
 
 The above example will return Http Status `404` with body `{ message: 'User not found'}`.
 
-![Validation-2](./docs/error-handling.png)
+![Postman error](./docs/postman-error.png)
 
 ### Code Prettier
 
